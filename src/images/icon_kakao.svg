@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="hyvzlocara">
+            <path data-name="사각형 80817" transform="translate(0 -1)" style="fill:none" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 65147" transform="translate(0 1)" style="clip-path:url(#hyvzlocara)">
+        <path data-name="패스 69946" d="M12 0C5.372 0 0 4.237 0 9.466c0 3.4 2.276 6.385 5.693 8.054-.251.934-.909 3.387-1.041 3.911-.163.651.238.643.5.468.207-.137 3.288-2.229 4.618-3.131a15.2 15.2 0 0 0 2.23.163c6.627 0 12-4.237 12-9.465S18.627 0 12 0" style="fill:#371d1e"/>
+    </g>
+</svg>
